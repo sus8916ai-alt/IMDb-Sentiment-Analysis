@@ -1,4 +1,8 @@
 # IMDb-Sentiment-Analysis
+problen statement - Movie reviews often contain subjective opinions that can be classified as positive or negative. The IMDb Movie Reviews Dataset consists of labeled text reviews used for sentiment analysis.
+ok
+ok
+ok
 
 Movie reviews often contain subjective opinions that can be classified as positive or negative. This project builds a sentiment analysis system that classifies IMDb movie reviews using a neural network model trained on the IMDb Movie Reviews Dataset.
 
